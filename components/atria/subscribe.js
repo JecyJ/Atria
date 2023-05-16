@@ -9,7 +9,7 @@ const Subscribe = () => {
         </label>
         <div className='flex '>
           <input
-            className='text-3xl md:text-7xl py-4 pl-3 w-full rounded-full border-none'
+            className='text-3xl md:text-7xl py-4 pl-3 w-full rounded-full border-none bg-[#e7e4df]'
             type='Email'
             placeholder='Enter your email here'
             name='email'
