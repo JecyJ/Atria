@@ -2,7 +2,7 @@ import Image from 'next/image';
 import {RiDoubleQuotesL, RiDoubleQuotesR} from 'react-icons/ri'
 
 
-const Scientistspage2 = () => {
+const Scientists = () => {
   return (
     <section className='w-full h-auto'>
       <div className='relative max-w-[520px] sm:max-w-[620px] md:max-w-[1450px] m-auto'>
@@ -24,4 +24,4 @@ const Scientistspage2 = () => {
   )
 }
 
-export default Scientistspage2;
+export default Scientists;

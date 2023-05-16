@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 
-const Heropage2 = () => {
+const Hero = () => {
   return (
     <section className='grid content-center pt-96 w-full h-screen'>
       <div className='z-[-2]'>
@@ -18,7 +18,7 @@ const Heropage2 = () => {
   )
 }
 
-export default Heropage2;
+export default Hero;
 
 {/* <div className=''>
       <div className='z-[-2]'>

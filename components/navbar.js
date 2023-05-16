@@ -35,7 +35,7 @@ const Navbar = () => {
           <HiOutlineMenuAlt1 size={24} />
         </div>
         <div className={nav ? 'fixed pt-8 md:hidden left-0 top-0 right-0 bottom-0 w-[100%] h-full bg-[#3c4e3d] ease-in-out duration-700' : 'fixed md:hidden bottom-[-100%] h-full bg-[#3c4e3d] ease-in-out duration-700'}>
-          <div className='max-w-[520px] m-auto mt-6 flex justify-between items-center'>
+          <div onClick={handleNav} className='max-w-[520px] m-auto mt-6 flex justify-between items-center'>
             <Link href='/'>
               <h1 className='text-4xl text-white font-semibold'>atria</h1>
             </Link>

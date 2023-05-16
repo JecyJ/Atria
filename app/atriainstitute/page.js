@@ -1,12 +1,11 @@
-import Heropage2 from '@components/institute/heropage2';
-import Scientistspage2 from '@components/institute/scientistspage2';
-import React from 'react'
+import Hero from '../../components/institute/hero';
+import Scientists from '../../components/institute/scientists';
 
 const Atriainstitute = () => {
   return (
     <section>
-      <Heropage2 />
-      <Scientistspage2 />
+      <Hero />
+      <Scientists />
     </section>
   )
 }
