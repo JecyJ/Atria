@@ -26,7 +26,7 @@ const Contact = () => {
                     <label htmlFor='fullname'>
                         <p className='w-full h-full md:pt-3 md:text-center text-semibold text-[#3c4e3d] md:text-3xl'>Subject</p>
                     </label>
-                    <select className='text-[#3c4e3d] bg-[#e7e4df] py-5' name="subject" id="subject">
+                    <select className='text-[#3c4e3d] text-xl bg-[#e7e4df] py-5' name="subject" id="subject">
                         <option value="Atria Institute">Atria Institute</option>
                         <option value="General Inquiry">General Inquiry</option>
                         <option value="Atria Membership">Atria Membership</option>
