@@ -1,8 +1,11 @@
+import Hero from '@components/academy/hero';
 import React from 'react'
 
 const Atriaacademy = () => {
   return (
-    <div>Atriaacademy</div>
+    <section>
+      <Hero />
+    </section>
   )
 }
 
