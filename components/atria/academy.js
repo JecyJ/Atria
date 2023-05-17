@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const Academy = () => {
   return (
-    <Link href='/academy'>
+    <Link href='/atriaacademy'>
         <section className='my-10'>
             <div className='flex w-full h-3/4 md:h-screen max-w-[520px] sm:max-w-[620px] md:max-w-[1450px] m-auto'>
                 <div className='h-auto max-w-[350px] md:max-w-[1000px] p-7 md:p-40 space-y-9 md:space-y-28'>
@@ -20,7 +20,8 @@ const Academy = () => {
                     className='md:w-full' 
                     src="/assets/images/couch.jpg"
                     alt = '/' 
-                    width={300} height={300} />
+                    width={300} height={300}
+                 />
             </div>
         </section>
     </Link>   

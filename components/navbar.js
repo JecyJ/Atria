@@ -24,7 +24,7 @@ const Navbar = () => {
         <Link href='/atriainstitute'>
           <li>Atria Institute</li>
         </Link>
-        <Link href='/academy'>
+        <Link href='/atriaacademy'>
           <li>Atria Academy of Science & Medicine</li>
         </Link>
         <Link href='/atriahealth'>
@@ -47,7 +47,7 @@ const Navbar = () => {
           <Link href='/atriainstitute'>
             <li onClick={handleNav}>Atria Institute</li>
           </Link>
-          <Link href='/acedemy'>
+          <Link href='/atriaacademy'>
             <li onClick={handleNav} className='my-12'>Atria Academy of Science & Medicine</li>
           </Link>
           <Link href='/atriahealth'>
