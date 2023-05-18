@@ -14,7 +14,6 @@ const Cofounder = () => {
                 </li>
                 <li className='relative md:z-[2] text-[#3c4e3d] text-5xl md:text-7xl font-semibold'>When we all join resources and work together, what can we achieve? We can change the course of global health and have an impact where it's needed most.</li>
             </ul>
-            {/* <Image className='relative top-0 left-0 md:left-28 w-2/6 md:w-2/12 h-64 md:h-96' src='/assets/images/woman.png' alt='/' width={200} height={200} /> */}
             <div className='md:grid md:grid-cols-2 relative max-w-[520px] md:max-w-[1450px] m-auto md:mt-0'>
                 <Image className='relative top-0 left-0 md:left-28 w-3/6 md:w-3/5 h-80 md:h-4/5 mb-9 md:mb-0' src='/assets/images/poised.jpg' alt='/' width={200} height={200} />
                 <div className='md:max-w-[850px] m-auto'>
