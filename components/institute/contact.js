@@ -3,13 +3,13 @@ import {BsCircleFill} from 'react-icons/bs'
 const Contact = () => {
   return (
     <section className='h-auto w-full'>
-        <div className='max-w-[520px] md:max-w-[1450px] m-auto'>
+        <div className='max-w-[520px] md:max-w-[1250px] m-auto'>
             <ul className='border-t border-t-[#3c4e3d] border-t-3  my-20'>
                 <li className='text-[#3c4e3d] py-8'><BsCircleFill size={28}  /></li>
                 <li className='relative md:z-[2] text-[#3c4e3d] text-5xl md:text-7xl font-semibold'>Want to learn more? Contact us via the form below and we will be in touch.</li>
             </ul>
         </div>
-        <div className='max-w-[520px] md:max-w-[1450px] m-auto mt-20'>
+        <div className='max-w-[520px] md:max-w-[1250px] m-auto mt-20'>
             <form>
                 <div className='grid md:grid-cols-2 py-5 border-b-4 border-dotted border-b-[#3c4e3d]'>
                     <label htmlFor='fullname'>

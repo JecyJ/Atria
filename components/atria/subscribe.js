@@ -2,7 +2,7 @@
 
 const Subscribe = () => {
   return (
-    <section className=' max-w-[520px] sm:max-w-[620px] md:max-w-[1450px] m-auto mt-20 mb-5'>
+    <section className=' max-w-[520px] sm:max-w-[620px] md:max-w-[1250px] m-auto mt-20 mb-5'>
       <form className='text-[#3c4e3d] w-full space-y-4'>
         <label htmlFor='newsletter'>
           <h2 className='text-lg md:text-3xl'>Subscribe to the Atria Newsletter</h2>

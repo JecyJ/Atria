@@ -7,7 +7,7 @@ const Hero = () => {
       <div className='z-[-2]'>
         <Image src='/assets/images/cone.png' alt='/' layout='fill' objectFit='cover' />
       </div>
-      <div className='max-w-[520px] sm:max-w-[620px] md:max-w-[1450px] w-full m-auto space-y-20 text-white'>
+      <div className='max-w-[520px] sm:max-w-[620px] md:max-w-[1250px] w-full m-auto space-y-20 text-white'>
         <h1 className='text-lg md:text-3xl'>Personalized, Proactive, Preventive care</h1>
         <div className='text-6xl md:text-9xl'>
             <h1>The future of</h1>

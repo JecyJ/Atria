@@ -4,7 +4,7 @@ import {AiOutlineCopyrightCircle} from 'react-icons/ai'
 
 const Footer = () => {
   return (
-    <section className='w-full max-w-[520px] sm:max-w-[620px] md:max-w-[1450px] m-auto text-[#3c4e3d]'>
+    <section className='w-full max-w-[520px] sm:max-w-[620px] md:max-w-[1250px] m-auto text-[#3c4e3d]'>
       <div className='flex pt-10 justify-between items-center pr-5 md:pr-20'>
         <Link href='/'>
           <h1 className='text-4xl md:text-5xl'>atria</h1>

@@ -4,7 +4,7 @@ import Image from 'next/image';
 const Nurses = () => {
   return (
     <section className="w-full h-auto my-20">
-        <div className="grid md:grid-cols-2 md:max-w-[1450px] m-auto">
+        <div className="grid md:grid-cols-2 md:max-w-[1250px] m-auto">
             <Image 
                 className='w-full h-screen md:order-2' 
                 src="/assets/images/nurses.jpg"
