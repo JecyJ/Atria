@@ -8,7 +8,7 @@ import Stones from '@components/academy/stones';
 import React from 'react'
 import Scientific from '@components/academy/scientific';
 import Leaders from '@components/academy/leaders';
-import Fellows from '@components/academy/fellows';
+import Fellows from '@components/academy/fellowstructure';
 
 const Atriaacademy = () => {
   return (
