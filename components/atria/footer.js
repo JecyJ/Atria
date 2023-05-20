@@ -9,7 +9,7 @@ const Footer = () => {
         <Link href='/'>
           <h1 className='text-3xl md:text-5xl'>atria</h1>
         </Link>
-        <h3 className='max-w-[150px] text-3xl'>Translating science into medicine</h3>
+        <h3 className='max-w-[150px] text-xl'>Translating science into medicine</h3>
         <ul className='max-w-[150px]'>
           <Link href='/atriainstitute'>
             <li>Atria Institute</li>
