@@ -7,9 +7,9 @@ const Footer = () => {
     <section className='w-full max-w-[520px] sm:max-w-[620px] md:max-w-[1250px] m-auto text-[#3c4e3d]'>
       <div className='flex pt-10 justify-between items-center pr-5 md:pr-20'>
         <Link href='/'>
-          <h1 className='text-4xl md:text-5xl'>atria</h1>
+          <h1 className='text-3xl md:text-5xl'>atria</h1>
         </Link>
-        <h3 className='max-w-[150px] text-4xl'>Translating science into medicine</h3>
+        <h3 className='max-w-[150px] text-3xl'>Translating science into medicine</h3>
         <ul className='max-w-[150px]'>
           <Link href='/atriainstitute'>
             <li>Atria Institute</li>
@@ -27,7 +27,7 @@ const Footer = () => {
           <h1 className='text-4xl'></h1>
         </Link>
         <Link href='/'>
-          <h3 className='max-w-[90px] text-xl'>Join The Movement</h3>
+          <h3 className='max-w-[90px] text-lg'>Join The Movement</h3>
         </Link>          
         <ul className='max-w-[150px]'>
           <Link href='/'>
