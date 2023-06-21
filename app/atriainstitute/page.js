@@ -4,7 +4,6 @@ import Scientists from '../../components/institute/scientists';
 import Science from '@components/institute/science';
 import Medicine from '@components/institute/medicine';
 import Subscribe from '@components/atria/subscribe';
-import Footer from '@components/atria/footer';
 import Contact from '@components/institute/contact';
 import Manhattan from '@components/institute/manhattan';
 import Doctors from '@components/institute/doctors';
@@ -33,7 +32,6 @@ const Atriainstitute = () => {
       <Manhattan />
       <Contact />
       <Subscribe />
-      <Footer />
     </section>
   )
 }

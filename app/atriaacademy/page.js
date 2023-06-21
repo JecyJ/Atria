@@ -1,7 +1,6 @@
 import Hero from '@components/academy/hero';
 import Learnmore from '@components/academy/learnmore';
 import Scienceofficer from '@components/academy/scienceofficer';
-import Footer from '@components/atria/footer';
 import Subscribe from '@components/atria/subscribe';
 import Contact from '@components/institute/contact';
 import Stones from '@components/academy/stones';
@@ -21,7 +20,6 @@ const Atriaacademy = () => {
       <Learnmore />
       <Contact />
       <Subscribe />
-      <Footer />
     </section>
   )
 }

@@ -1,4 +1,3 @@
-import Footer from "@components/atria/footer";
 import Subscribe from "@components/atria/subscribe";
 import Advanced from "@components/health/advanced";
 import Balls from "@components/health/balls";
@@ -26,7 +25,6 @@ const Atriahealth = () => {
       <Learnmore />
       <Contact />
       <Subscribe />
-      <Footer />
     </section>
   )
 }

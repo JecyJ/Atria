@@ -3,7 +3,7 @@
 const Learning = () => {
   return (
     <section className='space-y-52'>
-      <div className='text-[#3c4e3d] flex space-x-5 font-bold text-3xl md:text-9xl'>
+      <div className='text-[#3c4e3d] flex space-x-5 font-bold text-3xl md:text-6xl lg:text-9xl'>
         <span>Learning what is biologically possible.</span>
         <span>Learning what is biologically possible.</span>
       </div>

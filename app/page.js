@@ -1,6 +1,5 @@
 import Academy from "@components/atria/academy";
 import Bgvideo from "@components/atria/bgvideo";
-import Footer from "@components/atria/footer";
 import Health from "@components/atria/health";
 import Hero from "@components/atria/hero";
 import Institute from "@components/atria/institute";
@@ -15,13 +14,12 @@ const Atria = () => {
       <Hero />
       <Bgvideo />
       {/* <Learning /> */}
-      <Mission />
-      <Medicalminds />
-      <Institute />
-      <Academy />
-      <Health />
-      <Subscribe />
-      <Footer />
+      {/* <Mission /> */}
+      {/* <Medicalminds /> */}
+      {/* <Institute /> */}
+      {/* <Academy /> */}
+      {/* <Health /> */}
+      {/* <Subscribe /> */}
     </section>
   )
 }
