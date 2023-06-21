@@ -14,7 +14,7 @@ const Atria = () => {
     <section className="">
       <Hero />
       <Bgvideo />
-      <Learning />
+      {/* <Learning /> */}
       <Mission />
       <Medicalminds />
       <Institute />
