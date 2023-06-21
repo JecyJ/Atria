@@ -12,7 +12,7 @@ const Atria = () => {
   return (
     <section className="">
       <Hero />
-      <Bgvideo />
+      {/* <Bgvideo /> */}
       {/* <Learning /> */}
       {/* <Mission /> */}
       {/* <Medicalminds /> */}
