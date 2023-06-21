@@ -18,9 +18,6 @@ const Bgvideo = () => {
             </div>
             <h3 className='text-[#3c4e3d] text-lg md:text-right leading-tight md:max-w-[250px] ml-auto mt-12'>We are powering a movemnt for proactive, preventive healthcare informed by cutting-edge science and technology.</h3> 
         </div>
-        <video className='absolute z-[-2] top-0 mb-12' ref={videoRef} autoPlay muted loop>
-          <source src="https://player.vimeo.com/progressive_redirect/playback/706623327/rendition/1080p/file.mp4?loc=external&signature=ed7dba00d0c744d47c741d3541ff35e1b751748731af0a1591bdaa8d38093e33" type="video/mp4" />
-        </video>
       </div>
     </section>
   )
